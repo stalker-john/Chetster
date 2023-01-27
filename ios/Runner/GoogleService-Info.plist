@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>612611719100-1aif08v3k73coflns7064ahjp1doh6ei.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.612611719100-1aif08v3k73coflns7064ahjp1doh6ei</string>
+	<key>API_KEY</key>
+	<string>AIzaSyClP09TioJynap7HpinC_B1ejmUm7w38KU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>612611719100</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.chetster</string>
+	<key>PROJECT_ID</key>
+	<string>chetster-631cf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>chetster-631cf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:612611719100:ios:8c90ea5232725bfc21f5b9</string>
+</dict>
+</plist>
