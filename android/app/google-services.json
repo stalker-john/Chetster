@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "612611719100",
+    "project_id": "chetster-631cf",
+    "storage_bucket": "chetster-631cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612611719100:android:764fa7d44fa0b0ed21f5b9",
+        "android_client_info": {
+          "package_name": "com.example.chetster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612611719100-auf1ahbck6hf0c7tr63vnfna87mlkfbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDad2jFCmURoPDuy6ODWRrt21gtUj-E55s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612611719100-auf1ahbck6hf0c7tr63vnfna87mlkfbq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612611719100-1aif08v3k73coflns7064ahjp1doh6ei.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chetster"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
